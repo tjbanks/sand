@@ -1,9 +1,9 @@
 FROM continuumio/anaconda3:5.0.0
 
-RUN apt-get update && apt-get install -y automake \
-                                         libtool \
-                                         build-essential \
-                                         libncurses5-dev
+#RUN apt-get update && apt-get install -y automake \
+#                                         libtool \
+#                                         build-essential \
+#                                         libncurses5-dev
 
 ENV BUILD_DIR=/home/build
 ENV HOME_DIR=/home/shared
