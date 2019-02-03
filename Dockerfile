@@ -24,7 +24,7 @@ RUN pip install --no-cache-dir notebook==5.* allensdk
 
 ### Install the bmtk
 RUN cd ${BUILD_DIR}; \
-    git clone https://github.com/AllenInstitute/biophys_optimize.git; \
+    git clone https://github.com/tjbanks/biophys_optimize.git; \
     cd biophys_optimize; \
     python setup.py install
 
