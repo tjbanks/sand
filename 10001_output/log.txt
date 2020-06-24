@@ -1,0 +1,28 @@
+2020-06-24 14:53:19,999 [INFO] Created log file
+2020-06-24 14:53:20,144 [INFO] Building cells.
+2020-06-24 14:53:25,211 [INFO] Building recurrent connections
+2020-06-24 14:53:46,575 [INFO] Building virtual cell stimulations for exc_spikes
+2020-06-24 14:53:49,063 [INFO] Running simulation for 10000.000 ms with the time step 0.100 ms
+2020-06-24 14:53:49,063 [INFO] Starting timestep: 0 at t_sim: 0.000 ms
+2020-06-24 14:53:49,063 [INFO] Block save every 5000 steps
+2020-06-24 14:54:28,119 [INFO]     step:5000 t_sim:500.00 ms
+2020-06-24 14:55:09,173 [INFO]     step:10000 t_sim:1000.00 ms
+2020-06-24 14:55:49,356 [INFO]     step:15000 t_sim:1500.00 ms
+2020-06-24 14:56:30,486 [INFO]     step:20000 t_sim:2000.00 ms
+2020-06-24 14:57:11,049 [INFO]     step:25000 t_sim:2500.00 ms
+2020-06-24 14:57:51,878 [INFO]     step:30000 t_sim:3000.00 ms
+2020-06-24 14:58:32,323 [INFO]     step:35000 t_sim:3500.00 ms
+2020-06-24 14:59:13,601 [INFO]     step:40000 t_sim:4000.00 ms
+2020-06-24 14:59:55,064 [INFO]     step:45000 t_sim:4500.00 ms
+2020-06-24 15:00:36,842 [INFO]     step:50000 t_sim:5000.00 ms
+2020-06-24 15:01:17,910 [INFO]     step:55000 t_sim:5500.00 ms
+2020-06-24 15:02:00,398 [INFO]     step:60000 t_sim:6000.00 ms
+2020-06-24 15:02:41,717 [INFO]     step:65000 t_sim:6500.00 ms
+2020-06-24 15:03:24,138 [INFO]     step:70000 t_sim:7000.00 ms
+2020-06-24 15:04:05,576 [INFO]     step:75000 t_sim:7500.00 ms
+2020-06-24 15:04:45,641 [INFO]     step:80000 t_sim:8000.00 ms
+2020-06-24 15:05:27,533 [INFO]     step:85000 t_sim:8500.00 ms
+2020-06-24 15:06:08,927 [INFO]     step:90000 t_sim:9000.00 ms
+2020-06-24 15:06:51,092 [INFO]     step:95000 t_sim:9500.00 ms
+2020-06-24 15:07:30,311 [INFO]     step:100000 t_sim:10000.00 ms
+2020-06-24 15:07:39,343 [INFO] Simulation completed in 13.0 minutes, 50.28 seconds 
